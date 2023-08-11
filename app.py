@@ -32,7 +32,7 @@ target = pd.Series(target)
 # Streamlit
 # Set up App
 
-st.set_page_config(page_title="EDA and ML Dashboard", 
+st.set_page_config(page_title="EDA and ML Dashboard - Steve", 
                    layout="centered",
                    initial_sidebar_state="auto")
 # Add title and markdown decription
